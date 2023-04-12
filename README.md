@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Jamie North
-- 👀 I’m interested in mathematics and statistics
-- 🌱 My main goal is to work in quantitive finance 
-- Currently at University of Edinburgh studying Computational Applied Mathematics
+- 👋 hi, i’m jamie north
+- 👀 i’m interested in mathematics, hft and general algo trading
 - 📫 You an email me jamienorth99@gmail.com
 
 
