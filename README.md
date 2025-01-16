@@ -1,6 +1,6 @@
 - 👋 hi, i’m jamie north
 - 👀 i’m interested in mathematics, hft and general algo trading
-- 📫 You can email me jamienorth99@gmail.com
+- 📫 you can email me jamienorth99@gmail.com
 
 
 <!---
