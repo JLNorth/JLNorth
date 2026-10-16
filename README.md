@@ -1,5 +1,5 @@
 - 👋 hi, i’m jamie north
-- 👀 i’m interested in mathematics, hft and general algo trading
+- 👀 i’m interested in data science within the energy sector
 - 📫 you can email me jamienorth99@gmail.com
 
 
